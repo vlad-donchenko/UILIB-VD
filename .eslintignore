@@ -1,0 +1,6 @@
+dist/
+node_modules/
+vite-env.d.ts
+jest.config.js
+babel.config.js
+vite.config.js

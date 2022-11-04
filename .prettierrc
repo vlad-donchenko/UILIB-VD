@@ -1,0 +1,7 @@
+{
+  "trailingComma": "es5",
+  "semi": true,
+  "singleQuote": true,
+  "printWidth": 200,
+  "insert_final_newline": true
+}
