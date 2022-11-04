@@ -4,6 +4,6 @@ import HelloWorld from './VDButton.vue';
 
 <template>
   <Story>
-    <HelloWorld msg="Hello Friend" />
+    <HelloWorld msg="Hello Friend" label="Button" />
   </Story>
 </template>

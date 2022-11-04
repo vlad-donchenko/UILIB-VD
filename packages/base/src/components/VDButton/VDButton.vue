@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import { ref } from 'vue';
+import type { VDButtonPropTypes } from './VDButtonPropTypes';
 
-const props = defineProps<{ msg: string }>();
+const props = defineProps<{ msg: string; label: VDButtonPropTypes['label'] }>();
 
 const count = ref(0);
 </script>

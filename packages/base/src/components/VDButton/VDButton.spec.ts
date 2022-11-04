@@ -6,6 +6,7 @@ it('displays message', () => {
   const wrapper = mount(VDButton, {
     props: {
       msg: 'Hello world',
+      label: 'test',
     },
   });
 
