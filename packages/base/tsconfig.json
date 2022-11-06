@@ -12,6 +12,8 @@
     "esModuleInterop": true,
     "lib": ["ESNext", "DOM"],
     "skipLibCheck": true,
+    "outDir": "dist",
+    "declaration": true
   },
   "references": [{ "path": "./tsconfig.node.json" }]
 }
