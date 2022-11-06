@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "uilib-vd",
   "scripts": {
     "story:dev": "histoire dev",
     "story:build": "histoire build",
