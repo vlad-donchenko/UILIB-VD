@@ -1,5 +1,5 @@
 {
-  "name": "base",
+  "name": "uilib-vd-base",
   "license": "MIT",
   "version": "0.0.4",
   "type": "module",
@@ -32,5 +32,5 @@
   "workspaces": [
     "packages/*"
   ],
-  "gitHead": "10276fde90a16e218750fce12cf4dc600b4fcd0a"
+  "gitHead": "ce9cd4c8516d66e13802ee0f1a71c7aaa3f1a3f7"
 }
